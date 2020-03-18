@@ -14,7 +14,7 @@ const columns = {
 
 // If the screen size is small, medium, or large these are the sizes of the rows
 const rows = {
-  small: ["auto", "medium"],
+  small: ["auto", "320px"],
   medium: ["auto"],
   large: ["medium"],
 }
